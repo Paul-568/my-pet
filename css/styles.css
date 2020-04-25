@@ -1,12 +1,13 @@
 h1{
-    color:green;
-    font-size: 20px;
-    text-align-last: center;
-    
+    color: green;
+    text-align: centre;
 }
 p{
-    color:yellow;
-    font-size: 12px;
-    font-style: italic;
-    text-align-center;
+    color: indigo;
+    text-align: center;
+    background-color: blue;
+}
+body{
+    text-align: center;
+    background-color: crimson;
 }
